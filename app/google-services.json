@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "276821178969",
+    "project_id": "vrikshveda-fa42c",
+    "storage_bucket": "vrikshveda-fa42c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276821178969:android:fdde54eb22c2dd16cacf48",
+        "android_client_info": {
+          "package_name": "com.example.hackstreet_hackthon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXt5H8FFJlzrLFUZjhZM5tlNf0dtulYVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
